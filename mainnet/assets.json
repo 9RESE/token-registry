@@ -817,6 +817,32 @@
         "discord": "https://discord.com/invite/58nxD6PncQ"
       },
       "extra": {}
+    },
+    {
+      "denom": "posse-core1j2xm0m6zf5as7t7tkycq9aeqntf8t68znzrnvk",
+      "token_name": "POSSE",
+      "decimals": 6,
+      "description": "Protectors of the XRPL Forest",
+      "ibc_info": {},
+      "logo_URIs": {
+        "png": "",
+        "svg": ""
+      },
+      "urls": {
+        "website": "https://xrposse.com/",
+        "github": ""
+      },
+      "social_media": {
+        "twitter": "https://twitter.com/xrposse"
+      },
+      "extra": {
+        "xrpl_info": {
+          "precision": 6,
+          "source_chain": "XRPL",
+          "issuer": "rGTDuhZSHvU57MiZXCdPeMurri3rsz7dph",
+          "currency": "POSSE"
+        }
+      }
     }
   ]
 }
